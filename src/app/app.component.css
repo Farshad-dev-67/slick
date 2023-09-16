@@ -1,0 +1,12 @@
+.wrapper-circle{
+    height: 15px;
+    margin-top: 10px;
+    width: 15px;
+    border-radius: 10px;
+    margin-inline-end: 7px;
+    background-color: gainsboro;
+}
+.wrapper-img{
+    display: flex;
+    margin-left: 40%;
+}
